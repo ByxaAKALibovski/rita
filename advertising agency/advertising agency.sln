@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "advertising agency", "advertising agency.pyproj", "{09D6FA8F-28DB-42CA-B3BB-6AF286EE82DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D6FA8F-28DB-42CA-B3BB-6AF286EE82DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D6FA8F-28DB-42CA-B3BB-6AF286EE82DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C13DF3B2-221F-4012-80B2-AD1E3313825D}
+	EndGlobalSection
+EndGlobal
